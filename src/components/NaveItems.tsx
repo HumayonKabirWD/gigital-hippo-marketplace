@@ -1,9 +1,9 @@
 "use client"
 
-import { PRODUCT_CATAGORY } from '@/config'
+import { PRODUCT_CATAGORY } from '@/src/config'
 import React, { useEffect, useRef, useState } from 'react'
 import Navitem from './Navitem'
-import { useOnClickOutside } from '@/hooks/use-on-click-outside'
+import { useOnClickOutside } from '@/src/hooks/use-on-click-outside'
 
 
 const NaveItems = () => {

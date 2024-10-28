@@ -1,5 +1,5 @@
-import Maxwidth from "@/components/Maxwidth";
-import { Button, buttonVariants } from "@/components/ui/button";
+import Maxwidth from "@/src/components/Maxwidth";
+import { Button, buttonVariants } from "@/src/components/ui/button";
 import { ArrowDownIcon, ArrowDownToDotIcon, ArrowDownToLineIcon, CheckCircle, Leaf } from "lucide-react";
 import Link from "next/link";
 

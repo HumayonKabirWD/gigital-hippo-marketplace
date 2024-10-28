@@ -2,9 +2,9 @@
 
 import React from 'react'
 import { Button } from './ui/button'
-import { PRODUCT_CATAGORY } from '@/config'
+import { PRODUCT_CATAGORY } from '@/src/config'
 import { ChevronDown } from 'lucide-react'
-import { cn } from '@/lib/utils'
+import { cn } from '@/src/lib/utils'
 import Image from 'next/image'
 import Link from 'next/link'
 
